@@ -1,5 +1,4 @@
 # ... a little rspec(t) for Qlikview
-
 This is the companion project of my post [a little rspec(t) for Qlikview](http://zigolab.it/a-little-rspec-t-for-qlikview/)
 
 ## setup notes
